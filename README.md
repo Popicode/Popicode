@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--# 💫 About Me:
 Estudiante de ingeniería informática. Aprendiz de todo, experto en nada!
