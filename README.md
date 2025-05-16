@@ -1,6 +1,6 @@
 
 
-<!--# 💫 About Me:
+
 Estudiante de ingeniería informática. Aprendiz de todo, experto en nada!
 
 
@@ -24,4 +24,4 @@ Estudiante de ingeniería informática. Aprendiz de todo, experto en nada!
 [![](https://visitcount.itsvg.in/api?id=Popicode&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+](url)
