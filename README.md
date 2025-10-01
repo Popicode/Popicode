@@ -9,8 +9,7 @@ mi vida tomo otro rumbo, tengo metas e ideas claras.
 <br>
 <br>
 <ul>
-  <li>🔭 Actualmente trabajando en proyectos propios para mejorar mi aprendizaje.</li>
-  <li> 🌱 Aprendiendo JavaScript, HTML, CSS y SQL</li>
+  <li>🔭 Actualmente trabajando en una web para una pyme en Chile</li>
 </ul>
 Lenguajes que estoy aprendiendo! 
 <h4>  </h4>
