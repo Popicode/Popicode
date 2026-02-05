@@ -9,7 +9,7 @@ mi vida tomo otro rumbo, tengo metas e ideas claras.
 <br>
 <br>
 <ul>
-  <li>🔭 Actualmente trabajando en una web para una pyme en Chile</li>
+  <li>🔭 Landing page para un servicio de aseo e higuiene completada</li>
 </ul>
 Lenguajes que estoy aprendiendo! 
 <h4>  </h4>
