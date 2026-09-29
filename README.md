@@ -4,10 +4,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">Sobre mí</h2>  
 <br>
-Soy un estudiante de Ingeniería en Informatica, tengo 23 años y desde que estoy aprendiendo todo lo relacionado a la <b>progamación</b><br>
-mi vida tomo otro rumbo, tengo metas e ideas claras.
-<br>
-<br>
+
 
 
 
